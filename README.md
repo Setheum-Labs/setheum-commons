@@ -21,8 +21,8 @@ A collection of Setheum's Native Projects and Protocols by Setheum Labs. (A-Z)
 
 ### Other Resources
 
-* [Whitepapers](https://github.com/Setheum-Labs/Setheum-Labs-White-Papers): Whitepapers for Setheum Projects (Calioce, LiquidAir, SIOTEE, Slixon, ZIMs, SetheumJS, et al.).
-* [Wikisetheum](https://github.com/Setheum-Labs/setheum-wiki): GitBook Wiki documentation for Setheum and its core projects (Calioce, LiquidAir, SIOTEE, Slixon, ZIMs, SetheumJS, et al.).
+* [Whitepapers](https://github.com/Setheum-Labs/Setheum-Labs-White-Papers): Papers for Setheum Projects (Calioce, LiquidAir, SIOTEE, Slixon, ZIMs, SetheumJS, et al.).
+* [Wikisetheum](https://github.com/Setheum-Labs/setheum-wiki): Docs for Setheum projects (Calioce, LiquidAir, SIOTEE, Slixon, ZIMs, SetheumJS, et al.).
 * [Setheum.XYZ Website](https://github.com/Setheum-Labs/setheum-labs.github.io)
 * [Runtime Review Guidelines](https://github.com/Setheum-Labs/runtime-review-guidelines)
 * [Setheum Faucet Bot](https://github.com/Setheum-Labs/setm-faucet-bot): This is a nodejs bot for Substrate based faucets - Setheum.

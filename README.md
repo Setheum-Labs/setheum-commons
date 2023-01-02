@@ -34,17 +34,13 @@ A collection of Setheum's Native Projects and Protocols by Setheum Labs.
 * [ChainBridge Core](https://github.com/ChainSafe/chainbridge-core): This has improved upon the ChainBridge application, now as a framework - Framework.
 * [Chainbridge Solidity](https://github.com/ChainSafe/chainbridge-solidity): Solidity Contracts for Chainbridge-Core(Sygma).
 * [Generate Type Bundle](https://github.com/paritytech/generate-type-bundle): Generate valid `OverrideTypesBundle` JSON file for polkadotJS `ApiPromise`.
-* [Integritee-network/worker](https://github.com/integritee-network/worker): TEE off-chain worker and sidechain framework, used in Setheum's HS3.
-* [Litentry/tee-worker](https://github.com/litentry/tee-worker): Based on the integritee-network/worker framework, used in Setheum's HS3.
 * [Oracle Dispatcher](https://github.com/setheum-js/setheum-oracle-dispatcher): Setheum Oracle Dispatcher.
 * [ORML](https://github.com/open-web3-stack/open-runtime-module-library): Open Runtime Module Library for Substrate Chains.
 * [Parity Bridges Common](https://github.com/paritytech/parity-bridges-common): Collection of Useful Bridge Building Tools.
 * [Parity Common](https://github.com/paritytech/parity-common): Collection of crates used in Parity projects.
 * [PolkadotJS Org](https://github.com/polkadot-js/): The Ultimate Substrate JS Organization for PolkadotJS and related works. 
 * [Rust EVM](https://github.com/rust-blockchain/evm): Pure Rust implementation of Ethereum Virtual Machine.
-* [SGX Runtime](https://github.com/integritee-network/sgx-runtime): A substrate runtime template, used in Setheum's HS3.
 * [Substrate](https://github.com/paritytech/substrate): The Substrate framework, used in building the Setheum Blockchain.
-* [SubstraTEE](https://github.com/integritee-network/substraTEE):Trusted Off-Chain Compute Framework for substrate blockchains, used in Setheum's HS3. 
 * [Substrate API Sidecar](https://github.com/paritytech/substrate-api-sidecar): REST service making it easy to interact with Substrate nodes.
 * [Substrate Connect](https://github.com/paritytech/substrate-connect): Run Wasm Light Clients of any Substrate based chain directly in your browser.
 * [Substrate Playground](https://github.com/paritytech/substrate-playground): Start hacking your substrate runtime in a web based VSCode like IDE.

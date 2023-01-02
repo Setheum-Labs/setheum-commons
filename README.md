@@ -7,14 +7,12 @@ A Collection of Common Crates, Libraries and Repos in the Setheum Dev Stack used
 A collection of Setheum's Native Projects and Protocols by Setheum Labs.
 
 * [Calioce](https://github.com/Setheum-Labs/Calioce): Setheum's native decentralized payments protocol powering Payment Gateway Solutions.
-* [HS3](https://github.com/Setheum-Labs/HS3): Setheum's Blockchain-DAG L1-L2 Secure Decentralized Scalability Protocol.
-* [LiquidAir](https://github.com/Setheum-Labs/LiquidAir): Setheum''s Super Protocol for One-Stop Liquid Derivatives.
+* [Dagestan](https://github.com/Setheum-Labs/Dagestan): Setheum's Blockchain-DAG Consensus Engine.
 * [Predeploy Contracts](https://github.com/Setheum-Labs/predeploy-contracts): Setheum's EVM Predeploy Contracts.
-* [Setheum](https://github.com/Setheum-Labs/Setheum): Powering Scalable Ethical Web3. Ethical, Interoperable, Turing Complete L1-l2 Hybrid blockchain.
+* [Setheum](https://github.com/Setheum-Labs/Setheum): Powering Scalable Ethical Web3. Ethical, Interoperable, Turing Complete L1 blockchain.
 * [SetheumJS Org](https://github.com/setheum-js): Setheum's JS Library Organization for JS related works, ie. Setheum.JS, Setters.JS, et al.
-* [SIOTEE](https://github.com/Setheum-Labs/SIOTEE): Setheum's IoT protocol for building highly scalable and confidential Enterprise IoT solutions.
-* [Slixon](https://github.com/Setheum-Labs/Slixon): Setheum's Native Decentralized Exxchange inspired by the Uniswap V3 DEX Model.
-* [ZIMS](https://github.com/Setheum-Labs/Zims): Setheum's CDP Stablecoin protocol built for the Zero-Interest stablecoin market.
+* [Sial](https://github.com/Setheum-Labs/Sial): Setheum's bridging Protocol for cross-chain interoperability.
+* [Slixon](https://github.com/Setheum-Labs/Slixon): Setheum's Multi-protocol DeFi Platform. DeFi on Ethical Wheels.
 
 ## Links 'n Websites (A-Z)
 * [Setheum](https://setheum.xyz): Setheum Network Project Website.

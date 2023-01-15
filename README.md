@@ -53,3 +53,7 @@ A collection of Setheum's Native Projects and Protocols by Setheum Labs.
 * [Substrate Playground](https://github.com/paritytech/substrate-playground): Start hacking your substrate runtime in a web based VSCode like IDE.
 * [Subquery/SubQL](https://github.com/subquery/subql): SubQuery allows every Substrate/Polkadot team to process and query their data.
 * [Zombienet](https://github.com/Setheum-Labs/zombienet): A cli tool to easily spawn ephemeral Substrate networks and perform tests against them.
+
+### Tools for Documentstion:
+
+- [Scribe](https://scribehow.com/): An easy way to generate web-based How-Tos like that of Setheum-JS Console, Apps, etc.

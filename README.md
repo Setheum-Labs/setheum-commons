@@ -15,7 +15,8 @@ A collection of Setheum's Native Projects and Protocols by Setheum Labs.
 * [SIAL](https://github.com/Setheum-Labs/Sial): Setheum's bridging Protocol for cross-chain interoperability.
 * [Khalifa](https://github.com/Setheum-Labs/Khalifa): Setheum's Layer-2 Multi-protocol DeFi Network. Driving DeFi on Ethical Wheels.
 * [STEM](https://github.com/Setheum-Labs/Stem): Setheum's Trusted Execution Environment Computation Layer.
-* [Cloud Compute](https://github.com/Setheum-Labs/Cloud-Compuute): Setheum's Cloud Computation Layer built on STEM.
+* [Compute Cloud Stack](https://github.com/Setheum-Labs/c2-stack): Setheum's Cloud Compute Layer built on STEM.
+* [Storage Cloud Stack](https://github.com/Setheum-Labs/s2-stack): Setheum's Cloud Storage Layer built on STEM.
 
 ## Links 'n Websites (A-Z)
 * [Setheum](https://setheum.xyz): Setheum Network Project Website.

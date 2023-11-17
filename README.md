@@ -6,32 +6,28 @@ A Collection of Common Crates, Libraries and Repos in the Setheum Dev Stack used
 
 A collection of Setheum's Native Projects and Protocols by Setheum Labs.
 
-* [Payments](https://github.com/Setheum-Labs/Payments): Setheum's native decentralized payments protocol powering Payment Gateway Solutions.
 * [DAGESTAN](https://github.com/Setheum-Labs/Dagestan): Setheum's Blockchain-DAG Consensus Engine.
-* [Predeploy Contracts](https://github.com/Setheum-Labs/predeploy-contracts): Setheum's EVM Predeploy Contracts.
-* [Setheum](https://github.com/Setheum-Labs/Setheum): Powering Scalable Ethical Web3. Ethical, Interoperable, Turing Complete L1 blockchain.
-* [SetheumJS - Org](https://github.com/setheum-js): Setheum's JS Library Organization for JS related works, ie. Setheum.JS, Setters.JS, et al.
+* [EthicalDeFi](https://github.com/Setheum-Labs/EthicalDeFi): Setheum's Ethical DeFi Multi-protocol Suite. Driving DeFi on Ethical Wheels.
 * [Open Web3 Foundation - Org](https://github.com/Open-Web3-Foundation): Setheum's Non-Profit Foundation.
-* [SIAL](https://github.com/Setheum-Labs/Sial): Setheum's bridging Protocol for cross-chain interoperability.
-* [Khalifa](https://github.com/Setheum-Labs/Khalifa): Setheum's Layer-2 Multi-protocol DeFi Network. Driving DeFi on Ethical Wheels.
-* [STEM](https://github.com/Setheum-Labs/Stem): Setheum's Trusted Execution Environment Computation Layer.
-* [Compute Cloud Stack](https://github.com/Setheum-Labs/c2-stack): Setheum's Cloud Compute Layer built on STEM.
-* [Storage Cloud Stack](https://github.com/Setheum-Labs/s2-stack): Setheum's Cloud Storage Layer built on STEM.
+* [Predeploy Contracts](https://github.com/Setheum-Labs/predeploy-contracts): Setheum's EVM Predeploy Contracts.
+* [Setheum](https://github.com/Setheum-Labs/Setheum): Powering Scalable Web3 Solutions. Ethical, Interoperable, Turing Complete L1 blockchain.
+* [SetheumJS - Org](https://github.com/setheum-js): Setheum's JS Library Organization for JS related works, ie. Setheum.JS, Setters.JS, et al.
 
 ## Links 'n Websites (A-Z)
 * [Setheum](https://setheum.xyz): Setheum Network Project Website.
-* [SetheumJS](https://setheum.js.org): Setheum.JS Project Website.
 * [Setheum LinkTree](https://linktr.ee/setheum): Setheum's LinkTree to find website links, socials and community Links.
+* [SetheumJS](https://setheum.js.org): Setheum.JS Project Website.
 
 ### Other Resources (A-Z)
 
+* [EthicalDeFi Wiki](https://github.com/Setheum-Labs/ethicaldefi-wiki): Docs for the EthicalDeFi projects.
 * [Runtime Review Guidelines](https://github.com/Setheum-Labs/runtime-review-guidelines): Collection of advice on how to review and write Substrate.
 * [Setheum.XYZ Website](https://github.com/Setheum-Labs/setheum-labs.github.io): Setheum Network Project Website.based runtimes.
 * [Setheum Faucet Bot](https://github.com/Setheum-Labs/setm-faucet-bot): This is a nodejs bot for Substrate based faucets - Setheum.
-* [Whitepapers](https://github.com/Setheum-Labs/Setheum-Labs-White-Papers): Papers for Setheum Projects (Calioce, LiquidAir, SIOTEE, Slixon, ZIMs, SetheumJS, et al.).
-* [Wikisetheum](https://github.com/Setheum-Labs/setheum-wiki): Docs for Setheum projects (Calioce, LiquidAir, SIOTEE, Slixon, ZIMs, SetheumJS, et al.).
+* [Setheum Wiki](https://github.com/Setheum-Labs/setheum-wiki): Docs for the Setheum Network.
+* [Whitepapers](https://github.com/Setheum-Labs/Setheum-Labs-White-Papers): Papers for the Setheum Network.
 
-## Tools, Libraries 'n Frameworks (A-Z)
+## Related Tools, Libraries 'n Frameworks (A-Z)
 
 * [AlephBFT](https://github.com/aleph-zero-foundation/AlephBFT): A rust implementation of Aleph Protocol, used in Setheum's HS3.
 * [ChainBridge](https://github.com/ChainSafe/ChainBridge): Modular Multi-Directional Blockchain Bridge to interact with Multiple Networks - Application.
@@ -44,10 +40,11 @@ A collection of Setheum's Native Projects and Protocols by Setheum Labs.
 * [ORML](https://github.com/open-web3-stack/open-runtime-module-library): Open Runtime Module Library for Substrate Chains.
 * [Parity Bridges Common](https://github.com/paritytech/parity-bridges-common): Collection of Useful Bridge Building Tools.
 * [Parity Common](https://github.com/paritytech/parity-common): Collection of crates used in Parity projects.
+* [Polkadot SDK](https://github.com/paritytech/polkadot-sdk): The SDK repo containing The Substrate framework, Cumulus etc.
 * [PolkadotJS Org](https://github.com/polkadot-js/): The Ultimate Substrate JS Organization for PolkadotJS and related works. 
 * [Rust EVM](https://github.com/rust-blockchain/evm): Pure Rust implementation of Ethereum Virtual Machine.
 * [SGX Runtime](https://github.com/integritee-network/sgx-runtime): A substrate runtime template, used in Setheum's HS3.
-* [Substrate](https://github.com/paritytech/substrate): The Substrate framework, used in building the Setheum Blockchain.
+* [Substrate](https://github.com/paritytech/substrate): The Substrate framework, used in building the Setheum Blockchain. Now moved into the [Polkadot SDK](https://github.com/paritytech/polkadot-sdk) repo.
 * [SubstraTEE](https://github.com/integritee-network/substraTEE):Trusted Off-Chain Compute Framework for substrate blockchains, used in Setheum's HS3. 
 * [Substrate API Sidecar](https://github.com/paritytech/substrate-api-sidecar): REST service making it easy to interact with Substrate nodes.
 * [Substrate Connect](https://github.com/paritytech/substrate-connect): Run Wasm Light Clients of any Substrate based chain directly in your browser.

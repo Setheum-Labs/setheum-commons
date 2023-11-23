@@ -20,7 +20,9 @@ A Collection of Common Crates, Libraries and Repos in the Setheum Dev Stack used
 ### Guideline Resources:
 * [Code of Cunduct](https://github.com/Setheum-Labs/.github/blob/main/CODE_OF_CONDUCT.md)
 * [Contribution Guideline](https://github.com/Setheum-Labs/.github/blob/main/CONTRIBUTING.md)
+* [How Not To Build A Pallet Guidelines](https://github.com/Setheum-Labs/how-not-to-build-a-pallet-guidelines): Collection of advice on how to review and write Substrate.
 * [Runtime Review Guidelines](https://github.com/Setheum-Labs/runtime-review-guidelines): Collection of advice on how to review and write Substrate.
+* [Substrate Runtime Migration Guidelines](https://github.com/Setheum-Labs/substrate-migrations-guidelines): Collection of advice on how to review and write Substrate.
 
 ### Documentation Resources:
 * [Ethical DeFi Wiki](https://github.com/Setheum-Labs/ethical-defi-wiki): Documentation for the EthicalDeFi Suite.

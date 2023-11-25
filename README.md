@@ -41,7 +41,7 @@ A Collection of Common Crates, Libraries and Repos in the Setheum Dev Stack used
 * [Arkworks](https://github.com/arkworks-rs/r1cs-tutorial/): The arkworks ecosystem consist of Rust libraries for designing and working with zero knowledge succinct non-interactive arguments (zkSNARKs). Libraries in the `arkworks` ecosystem provide efficient implementations of all components required to implement zkSNARK applications, from generic finite fields to R1CS constraints for common functionalities. This is a set of state-of-the-art Rust libraries that collectively provide tools to program zkSNARKs.
 * [Arkworks Algebra Intro](https://github.com/Pratyush/algebra-intro): Quick introduction to programming with finite fields, elliptic curves, and pairings in `arkworks`.
 * [Arkworks Curves](https://github.com/arkworks-rs/curves): Implementations of popular elliptic curves. This repository contains implementations of some popular elliptic curves.
-* [Blogs - `gnark` Team HackMD Publication](): The blog of a research team @Consensys / Linea working on zero knowledge proof systems.
+* [Blogs - `gnark` Team HackMD Publication](https://hackmd.io/@gnark): The blog of a research team @Consensys / Linea working on zero knowledge proof systems.
 * [Blogs - Zero Knowledge Blogs by Ingonyama](https://www.ingonyama.com/blog): Zero Knowledge Blogs by Ingonyama.
 * [Blogs - ZK Poker: A Simple ZK-SNARK Circuit by Geoff Lamperd in Coinmonks](https://medium.com/coinmonks/zk-poker-a-simple-zk-snark-circuit-8ec8d0c5ee52): ZK Poker: A Simple ZK-SNARK Circuit by Geoff Lamperd in Coinmonks.
 * [Ingopedia ZK/FHE resources](https://github.com/ingonyama-zk/ingopedia): A curated list of ZK/FHE resources and links. 👇 Click below for the website version.

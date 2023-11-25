@@ -38,8 +38,14 @@ A Collection of Common Crates, Libraries and Repos in the Setheum Dev Stack used
 * [AlephBFT](https://github.com/aleph-zero-foundation/AlephBFT): A rust implementation of Aleph Protocol, used in Setheum.
 
 ###  ZK Specific Resources (A-Z)
-* []():
-* 
+* [Arkworks](https://github.com/arkworks-rs/r1cs-tutorial/): The arkworks ecosystem consist of Rust libraries for designing and working with zero knowledge succinct non-interactive arguments (zkSNARKs). Libraries in the `arkworks` ecosystem provide efficient implementations of all components required to implement zkSNARK applications, from generic finite fields to R1CS constraints for common functionalities. This is a set of state-of-the-art Rust libraries that collectively provide tools to program zkSNARKs.
+* [Arkworks Algebra Intro](https://github.com/Pratyush/algebra-intro): Quick introduction to programming with finite fields, elliptic curves, and pairings in `arkworks`.
+* [Arkworks Curves](https://github.com/arkworks-rs/curves): Implementations of popular elliptic curves. This repository contains implementations of some popular elliptic curves.
+* [Arkworks R1CS Tutorial](https://github.com/arkworks-rs/r1cs-tutorial/): Tutorial for writing constraints in the `arkworks` framework using the `ark-relations`, `ark-r1cs-std`, and `ark-crypto-primitives` crates.. Introduction to SNARK Development with `arkworks`.
+* [Ingopedia ZK/FHE resources](https://github.com/ingonyama-zk/ingopedia): A curated list of ZK/FHE resources and links. 👇 Click below for the website version.
+* [Penumbra Poseidon377](https://github.com/penumbra-zone/poseidon377): An instantiation of the Poseidon hash for use with `decaf377`.
+* [sha2-on-cq](https://github.com/aleph-zero-foundation/sha2-on-cq): Halo2 circuit for SHA2 hash using CQ lookup argument.
+
 ###  Cryptos & Other Modules (A-Z)
 * [Docknetwork Crypto Library](https://github.com/Setheum-Labs/docknetwork-crypto): Rust crypto library for data privacy tools.
 

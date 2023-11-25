@@ -1,21 +1,21 @@
 # setheum-commons
 
-A Collection of Common Crates, Libraries and Repos in the Setheum Dev Stack used in Setheum and its projects
+A Collection of resources to get started for developing the Setheum ecosystem, showcases the Tech Stack used in Setheum.
 
-## Projects
+## Resources
 
-### Core Projects (A-Z)
+### Projects
+
+#### Core Projects (A-Z)
 * [EthicalDeFi](https://github.com/Setheum-Labs/EthicalDeFi): Powering DeFi on Ethical Wheels. Setheum's Ethical DeFi Suite.
 * [Setheum](https://github.com/Setheum-Labs/Setheum): Powering Scalable Web3 Solutions. Setheum's EVM compatible Turing Complete L1 blockchain.
 
-### Support Tools (A-Z)
+#### Support Tools (A-Z)
 * [Setheum Console](https://github.com/Setheum-Labs/console): Setheum Network Developer Console.
 * [SetheumJS](https://github.com/Setheum-Labs/setheum.js): Setheum's Javascript Library, SDKs & APIs.
 * [Setheum Signer](https://github.com/Setheum-Labs/setheum-signer): Simple browser extension for managing Setheum and Substrate network accounts in a browser. Allows the signing of extrinsics using these accounts. Also provides a simple interface for compliant extensions for dapps.
 * [Setheum Staking Dashboard](https://github.com/Setheum-Labs/staking-dashboard): Setheum Staking Dashboard.
 * [Setheum Node Runner](https://github.com/Setheum-Labs/node-runner): A convenience wrapper for running a Setheum node, using the Setheum Node docker image under the hood.
-
-## Resources
 
 ### Guideline Resources:
 * [Code of Cunduct](https://github.com/Setheum-Labs/.github/blob/main/CODE_OF_CONDUCT.md)

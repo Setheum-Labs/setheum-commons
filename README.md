@@ -7,7 +7,6 @@ A Collection of resources to get started for developing the Setheum ecosystem, s
 ### Projects
 
 #### Core Projects (A-Z)
-* [EthicalDeFi](https://github.com/Setheum-Labs/EthicalDeFi): Powering DeFi on Ethical Wheels. Setheum's Ethical DeFi Suite.
 * [Setheum](https://github.com/Setheum-Labs/Setheum): Powering Scalable Web3 Solutions. Setheum's EVM compatible Turing Complete L1 blockchain.
 
 #### Support Tools (A-Z)
@@ -50,9 +49,6 @@ A Collection of resources to get started for developing the Setheum ecosystem, s
 * [Tutorials - Arkworks R1CS Tutorial](https://github.com/arkworks-rs/r1cs-tutorial/): Tutorial for writing constraints in the `arkworks` framework using the `ark-relations`, `ark-r1cs-std`, and `ark-crypto-primitives` crates.. Introduction to SNARK Development with `arkworks`.
 * [Videos - Zero Knowledge Videos by Ingonyama](https://www.ingonyama.com/videos): Zero Knowledge Videos by Ingonyama.
 
-###  Cryptos & Other Modules (A-Z)
-* [Docknetwork Crypto Library](https://github.com/Setheum-Labs/docknetwork-crypto): Rust crypto library for data privacy tools.
-
 ### Bridging Specific Resources (A-Z)
 * [Parity Bridges Common](https://github.com/paritytech/parity-bridges-common): Collection of Useful Bridge Building Tools.
 * [Sygma SDK](https://github.com/sygmaprotocol/sygma-sdk): A Typescript SDK to add cross-chain capabilities such as bridging tokens and sending messages across dApp projects. Built by ChainSafe.
@@ -94,5 +90,4 @@ A Collection of resources to get started for developing the Setheum ecosystem, s
 
 ### Other Resources (A-Z)
 * [Parity Common](https://github.com/paritytech/parity-common): Collection of crates used in Parity projects.
-* [Scribe](https://scribehow.com/): An easy way to generate web-based How-Tos like that of Setheum-JS Console, Apps, etc.
-
+* [Scribe](https://scribehow.com/): An easy way to generate web-based How-Tos.
